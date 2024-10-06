@@ -1,8 +1,6 @@
 # Morse Kodu Çevirici 💾⚡︎
 
-Bu proje, kullanıcıdan bir metin alarak bu metni Morse koduna çeviren bir Python uygulamasıdır. Ayrıca, Morse kodunu metne geri döndürme özelliğine sahiptir.
-
-
+Bu proje, kullanıcıdan bir metin alarak bu metni Morse koduna çeviren bir Python uygulamasıdır.
 
  <img src="https://github.com/user-attachments/assets/b749aa31-441c-4dd5-991b-f1f4a5df7d76" alt="JS Basic Level Projects" width="300" />
 
@@ -14,9 +12,8 @@ Bu proje, kullanıcıdan bir metin alarak bu metni Morse koduna çeviren bir Pyt
 
 - Python
 - Tkinter (GUI için)
-- Morse kodu dönüştürme algoritması
 
-## Kurulum
+
 
 ### Gereksinimler
 
